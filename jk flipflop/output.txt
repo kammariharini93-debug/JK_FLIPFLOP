@@ -1,0 +1,7 @@
+| J | K | Q(next) | Operation |
+| - | - | ------- | --------- |
+| 0 | 0 | Q       | No Change |
+| 0 | 1 | 0       | Reset     |
+| 1 | 0 | 1       | Set       |
+| 1 | 1 | ~Q      | Toggle    |
+
